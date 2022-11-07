@@ -31,5 +31,9 @@
   "browserslist": [
     "> 1%",
     "last 2 version"
-  ]
+  ],
+  "dependencies": {
+    "matter-js": "^0.18.0",
+    "two.js": "^0.8.10"
+  }
 }
